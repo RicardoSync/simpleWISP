@@ -1,4 +1,4 @@
-# adminWISP - Sistema de Gestión para WISP
+# simpleWISP - Sistema de Gestión para WISP
 
 ![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)
 ![Estado](https://img.shields.io/badge/Estado-Activo-green)
